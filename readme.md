@@ -1,0 +1,1 @@
+The purpose of this project is the use of parameters for a function.
